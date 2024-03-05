@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/mdshohidul143" target="blank"><img src="https://img.shields.io/twitter/follow/mdshohidul143?logo=twitter&style=for-the-badge" alt="mdshohidul143" /></a> </p>
 
-- 🔭 I’m currently working on **MLOps**
+### I have technical experience:
+  - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
+  - MLOps
 
-- 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 My portfolio [https://mdshohidul143.github.io/](https://mdshohidul143.github.io/)
 
-- 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **mdshohidulislam01311456948@gmail.com**
 
-- Resume [https://drive.google.com/file/d/1HnMrsNUD0CR48t57L2tTCVdZdnFgvfVX/view?usp=sharing](https://drive.google.com/file/d/1HnMrsNUD0CR48t57L2tTCVdZdnFgvfVX/view?usp=sharing)
+👨‍💻 <a href="https://entbappy.github.io/bappy-portfolio" rel="nofollow">My Online Portfolio</a>
 
-- ⚡ Fun fact **I am happy**
+📫 How to reach me **mdshohidulislam01311456948@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
