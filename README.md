@@ -26,7 +26,7 @@
 <a href="https://twitter.com/mdshohidul143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshohidul143" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdshohidul143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshohidul143" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdshohidul143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdshohidul143" height="30" width="40" /></a>
-<a href="https://instagram.com/mdshohidul143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdshohidul143" height="30" width="40" /></a>
+<a href="https://instagram.com/md_shohidul143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdshohidul143" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
